@@ -1,6 +1,6 @@
-# 🎬 RadianT-Movies
+# 🎬 Movie-Website
 
-RadianT-Movies is a modern movie discovery web application that allows users to browse, search, and explore movies with details such as ratings, trailers, and descriptions.
+Movie-Website is a modern movie discovery web application that allows users to browse, search, and explore movies with details such as ratings, trailers, and descriptions.
 
 ## 🚀 Features
 
@@ -28,8 +28,8 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/deeptimaan-k/RadianT-Movies.git
-cd RadianT-Movies
+git clone https://github.com/alok-09/Movie-Website.git
+cd Movie-Website
 ```
 
 ### Install Dependencies
@@ -66,5 +66,5 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-- GitHub: [@deeptimaan-k](https://github.com/deeptimaan-k)
-- LinkedIn: [Deeptimaan K](https://linkedin.com/in/deeptimaan-k)
+- GitHub: [@deeptimaan-k](https://github.com/alok-09)
+- LinkedIn: [Deeptimaan K](https://linkedin.com/in/alok-09)
